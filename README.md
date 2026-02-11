@@ -1,48 +1,56 @@
-<h1 align="center">Hi 👋, I'm Subhajit Ghosh</h1>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2000&pause=700&color=00F7FF&center=true&vCenter=true&width=950&lines=Initializing+AI+Profile...;Loading+Deployment+Core...;Optimizing+Automation+Modules...;AI+Powered+Tech+Architect;Building+Without+Traditional+Coding;System+Status:+ONLINE" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Subhajit%20Ghosh&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:001F3F&height=120&section=header&animation=fadeIn"/>
-</p>
-
----
-
-## 🧠 SYSTEM IDENTITY SCAN
-
-```
-> Name: Subhajit Ghosh
-> Location: West Bengal, India
-> Role: AI-Assisted System Builder
-> Status: ACTIVE
-> Mode: Advanced Automation
-```
-
----
-
-## ⚡ BOOT SEQUENCE
-
-```
-[■■□□□□□□□□□□] 20%
-[■■■■■■□□□□□□] 50%
-[■■■■■■■■■■□□] 80%
-[■■■■■■■■■■■■] 100%
-System Boot Completed ✔
-```
-
----
-
-## 🤖 CORE FUNCTIONS
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF99&center=true&vCenter=true&width=900&lines=AI-Assisted+Code+Modification;Telegram+Bot+Deployment+Specialist;Open-Source+Customization;Automation+Optimization;Continuous+Learning+Mode" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=AI-Powered+System+Builder;Deployment+Specialist;Automation+Optimizer;Learning+By+Execution;Building+Without+Traditional+Coding" />
 </p>
 
 ---
 
-## 🛠 TECH INTERFACE
+## 🧠 Identity
+
+```yaml
+Name: Subhajit Ghosh
+Location: West Bengal, India
+Role: AI-Assisted Deployment Specialist
+Background: Non-Traditional Developer
+Focus: Automation • Optimization • Execution
+Status: Continuous Growth
+```
+
+---
+
+## 🚀 Professional Overview
+
+I am a technology enthusiast focused on **building practical systems using AI and modern tools**.
+
+While I do not follow the traditional programming path, I specialize in:
+
+- 🤖 AI-assisted code modification  
+- 🚀 Production-level bot deployment  
+- ⚙ Intelligent system customization  
+- 📈 Performance optimization  
+- 📚 Learning through experimentation  
+
+I believe execution matters more than labels.
+
+---
+
+## ⚙ System Initialization
+
+```
+Initializing AI Core...
+Loading Deployment Engine...
+Optimizing Automation Modules...
+System Status: ONLINE
+```
+
+██████████████████████░░ 90%
+
+---
+
+## 🛠 Technology Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=github,linux,python,html,css,vscode,telegram,docker,cloudflare&theme=dark" />
@@ -50,10 +58,10 @@ System Boot Completed ✔
 
 ---
 
-## 📊 LIVE PERFORMANCE MONITOR
+## 📊 Live Performance Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Su6666666&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Su6666666&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 </p>
 
 <p align="center">
@@ -62,7 +70,7 @@ System Boot Completed ✔
 
 ---
 
-## 📈 LANGUAGE PROCESSOR
+## 📈 Language Distribution
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Su6666666&layout=compact&theme=tokyonight&hide_border=true"/>
@@ -70,21 +78,15 @@ System Boot Completed ✔
 
 ---
 
-## 🎮 ARCADE MODE ACTIVATED
+## 🐍 Contribution Activity
 
-### 🐍 Snake Contribution Engine
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
-### 👾 Pacman Contribution Mode
-<p align="center">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/pacman.svg"/>
-</p>
-
 ---
 
-## 🔥 ACTIVITY PROCESSING GRAPH
+## 🔥 Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Su6666666&theme=tokyo-night&hide_border=true"/>
@@ -92,22 +94,17 @@ System Boot Completed ✔
 
 ---
 
-## 🌌 AI TERMINAL MODE
+## 🌌 Philosophy
 
-```
-> Deploying optimized repositories...
-> Enhancing automation logic...
-> Improving system efficiency...
-> Learning from experimentation...
-> STATUS: CONTINUOUS IMPROVEMENT
-```
+> You don’t need a traditional path to create meaningful technology.  
+> With curiosity, intelligent tools, and consistency — powerful systems can be built.
 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:00F7FF&height=120&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn"/>
 </p>
 
 <p align="center">
-🚀 Always Learning • Always Building • Always Evolving
+🚀 Always Learning • Always Building • Always Improving
 </p>
