@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=220&section=header&text=Subhajit%20Ghosh&fontSize=44&fontColor=00F7FF&animation=fadeIn&desc=AI-Orchestrated%20System%20Builder&descSize=18&descAlignY=70"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:FFFFFF,100:000000&height=230&section=header&text=Subhajit%20Ghosh&fontSize=44&fontColor=FFFF00&animation=fadeIn"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=950&lines=No+Traditional+Coding+Background;I+Build+With+AI;I+Modify+Public+Repositories;I+Add+Features+Using+AI+Logic;Execution+Over+Labels" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2600&pause=900&color=00FFFF&center=true&vCenter=true&width=950&lines=AI-Orchestrated+System+Builder;No+Traditional+Coding+Background;I+Build+With+AI;Execution+Over+Labels" />
 </p>
 
 ---
@@ -42,27 +42,15 @@ I operate at a **system level**, not at a syntax level.
 ## 🔍 My Working Model
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=800&pause=200&color=8A2BE2&center=true&vCenter=true&width=800&lines=Analyze+Existing+Repo...;Break+Down+System+Structure...;Design+Feature+Logic...;Guide+AI+Step+By+Step...;Test+%26+Refine...;Deploy+Final+Build" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=800&pause=200&color=FF0000&center=true&vCenter=true&width=800&lines=Analyze+Existing+Repo...;Break+Down+System+Structure...;Design+Feature+Logic...;Guide+AI+Step+By+Step...;Test+%26+Refine...;Deploy+Final+Build" />
 </p>
 
 ---
 
-## 🧩 My Strength
-
-- Structured thinking  
-- AI prompt engineering  
-- Repository modification strategy  
-- Feature integration planning  
-- Practical execution mindset  
-- Continuous experimentation  
-
----
-
-## 📈 GitHub Activity
+## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=8A2BE2" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&ring=00F7FF&fire=8A2BE2" height="165"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -80,7 +68,7 @@ Builders are evolving with it.
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:243B55,100:141E30&height=120&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:800080,50:FFFF00,100:00FFFF&height=120&section=footer&animation=fadeIn"/>
 </p>
 
 <p align="center">
