@@ -23,13 +23,16 @@ Focus: Execution • Optimization • Feature Integration
 
 ## ⚙ What I Actually Do
 
+I come from **zero coding background**.
+I do not know programming languages or traditional coding syntax.
 I do NOT write code manually.  
 I do NOT claim to be a traditional developer.  
 
 Instead, I:
 
-- 🤖 Use AI to understand repositories  
-- 🛠 Modify public open-source projects  
+- 🤖 Use AI to understand repositories
+- 👾 Create new repositories entirely using AI guidance
+- 🛠 Modify public open-source projects using AI
 - ➕ Add new features through structured AI prompts  
 - 🔄 Refactor and reorganize logic with AI assistance  
 - 🚀 Deploy working systems  
