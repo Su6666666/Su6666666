@@ -1,110 +1,65 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Subhajit%20Ghosh&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:1a1a1a&height=220&section=header&text=Subhajit%20Ghosh&fontSize=45&fontColor=00F7FF&animation=fadeIn"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=AI-Powered+System+Builder;Deployment+Specialist;Automation+Optimizer;Learning+By+Execution;Building+Without+Traditional+Coding" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=I+am+NOT+a+traditional+developer.;I+have+never+formally+learned+programming.;I+do+not+write+complex+code+from+scratch.;I+build+systems+using+AI.;I+modify+repositories+with+AI+assistance.;I+deploy+public+and+private+projects.;I+add+new+features+through+AI+optimization.;Execution+over+titles.;Curiosity+over+credentials."/>
 </p>
 
 ---
 
-## 🧠 Identity
+## 🧠 IDENTITY
 
 ```yaml
 Name: Subhajit Ghosh
 Location: West Bengal, India
-Role: AI-Assisted Deployment Specialist
-Background: Non-Traditional Developer
-Focus: Automation • Optimization • Execution
-Status: Continuous Growth
+Type: Non-Traditional Tech Builder
+Core Model: AI-Assisted Execution
+Specialization: Deployment • Optimization • Customization
+Theme: Dark • Focused • Minimal
 ```
 
 ---
 
-## 🚀 Professional Overview
-
-I am a technology enthusiast focused on **building practical systems using AI and modern tools**.
-
-While I do not follow the traditional programming path, I specialize in:
-
-- 🤖 AI-assisted code modification  
-- 🚀 Production-level bot deployment  
-- ⚙ Intelligent system customization  
-- 📈 Performance optimization  
-- 📚 Learning through experimentation  
-
-I believe execution matters more than labels.
-
----
-
-## ⚙ System Initialization
+## ⚙ SYSTEM CORE
 
 ```
-Initializing AI Core...
-Loading Deployment Engine...
-Optimizing Automation Modules...
-System Status: ONLINE
+Initializing AI Engine...
+Scanning Repositories...
+Applying Intelligent Modifications...
+Deploying Optimized Systems...
+Status: ACTIVE
 ```
 
-██████████████████████░░ 90%
+███████████████████████░ 95%
 
 ---
 
-## 🛠 Technology Stack
+## 🚀 WHAT I DO
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=github,linux,python,html,css,vscode,telegram,docker,cloudflare&theme=dark" />
-</p>
+- 🤖 Modify and optimize repositories using AI  
+- 🚀 Deploy public and private projects  
+- 🛠 Customize open-source systems  
+- ⚙ Add features through AI-assisted workflows  
+- 🔍 Improve structure and efficiency  
+- 📚 Learn by experimenting in real environments  
 
----
-
-## 📊 Live Performance Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Su6666666&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Su6666666&theme=tokyonight&hide_border=true"/>
-</p>
+I may not follow the traditional coding path —  
+but I focus on execution, adaptability, and intelligent system building.
 
 ---
 
-## 📈 Language Distribution
+## 🌌 PHILOSOPHY
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Su6666666&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-## 🔥 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Su6666666&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🌌 Philosophy
-
-> You don’t need a traditional path to create meaningful technology.  
-> With curiosity, intelligent tools, and consistency — powerful systems can be built.
+> You don’t need formal coding credentials to create meaningful technology.  
+> With AI, curiosity, and consistency — powerful systems can be built.
 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:111111,100:000000&height=150&section=footer&animation=fadeIn"/>
 </p>
 
 <p align="center">
-🚀 Always Learning • Always Building • Always Improving
+⚫ Always Learning • Always Building • Always Improving
 </p>
