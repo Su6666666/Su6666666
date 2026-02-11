@@ -1,106 +1,113 @@
 <h1 align="center">Hi 👋, I'm Subhajit Ghosh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Powered+Tech+Enthusiast;Deployment+Specialist;Automation+Explorer;Building+Without+Traditional+Coding;Learning+By+Doing+Everyday" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2000&pause=700&color=00F7FF&center=true&vCenter=true&width=950&lines=Initializing+AI+Profile...;Loading+Deployment+Core...;Optimizing+Automation+Modules...;AI+Powered+Tech+Architect;Building+Without+Traditional+Coding;System+Status:+ONLINE" />
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:001F3F&height=120&section=header&animation=fadeIn"/>
 </p>
 
 ---
 
+## 🧠 SYSTEM IDENTITY SCAN
+
+```
+> Name: Subhajit Ghosh
+> Location: West Bengal, India
+> Role: AI-Assisted System Builder
+> Status: ACTIVE
+> Mode: Advanced Automation
+```
+
+---
+
+## ⚡ BOOT SEQUENCE
+
+```
+[■■□□□□□□□□□□] 20%
+[■■■■■■□□□□□□] 50%
+[■■■■■■■■■■□□] 80%
+[■■■■■■■■■■■■] 100%
+System Boot Completed ✔
+```
+
+---
+
+## 🤖 CORE FUNCTIONS
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Su6666666&label=Profile%20Views&color=00F7FF&style=flat" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF99&center=true&vCenter=true&width=900&lines=AI-Assisted+Code+Modification;Telegram+Bot+Deployment+Specialist;Open-Source+Customization;Automation+Optimization;Continuous+Learning+Mode" />
 </p>
 
 ---
 
-## 🚀 About Me
-
-I am a **Tech Enthusiast** from West Bengal, India.  
-I am not a traditional programmer, but I specialize in building and optimizing systems using **AI and modern deployment tools**.
-
----
-
-## 🤖 What I Do
-
-- 🤖 AI-Assisted Development  
-- 🚀 Telegram Bot Deployment  
-- 🛠 Open-Source Customization  
-- 📚 Learning by Experimentation  
-
----
-
-## 🧠 My Mindset
-
-> You don’t need to be a coder to build powerful systems.  
-> With AI + Curiosity + Consistency — everything is possible.
-
----
-
-## 🛠 Tools & Platforms
+## 🛠 TECH INTERFACE
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,linux,python,html,css,vscode,telegram&theme=dark" />
+<img src="https://skillicons.dev/icons?i=github,linux,python,html,css,vscode,telegram,docker,cloudflare&theme=dark" />
 </p>
 
 ---
 
-## ⚡ System Loading Status
+## 📊 LIVE PERFORMANCE MONITOR
 
 <p align="center">
-
-████████████████░░░░░░░░ 70%
-
+<img src="https://github-readme-stats.vercel.app/api?username=Su6666666&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-Loading AI Modules...
-Optimizing Systems...
-Deploying Smart Solutions...
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Su6666666&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🎮 Developer Arcade Zone
-
-### 🐍 Contribution Snake Game
+## 📈 LANGUAGE PROCESSOR
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Su6666666&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-### 👾 Pacman Contribution Animation
+## 🎮 ARCADE MODE ACTIVATED
 
+### 🐍 Snake Contribution Engine
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/pacman.svg" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+### 👾 Pacman Contribution Mode
+<p align="center">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/pacman.svg"/>
 </p>
 
 ---
 
-## 📊 Live GitHub Analytics
+## 🔥 ACTIVITY PROCESSING GRAPH
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Su6666666&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Su6666666&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Su6666666&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Su6666666&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 Activity Graph
+## 🌌 AI TERMINAL MODE
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Su6666666&theme=tokyo-night&hide_border=true" />
-</p>
+```
+> Deploying optimized repositories...
+> Enhancing automation logic...
+> Improving system efficiency...
+> Learning from experimentation...
+> STATUS: CONTINUOUS IMPROVEMENT
+```
 
 ---
 
 <p align="center">
-✨ Always Learning • Always Building • Always Improving ✨
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,100:00F7FF&height=120&section=footer&animation=fadeIn"/>
+</p>
+
+<p align="center">
+🚀 Always Learning • Always Building • Always Evolving
 </p>
