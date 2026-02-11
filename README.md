@@ -1,63 +1,69 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:1a1a1a&height=220&section=header&text=Subhajit%20Ghosh&fontSize=45&fontColor=00F7FF&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f0f0f,100:1a1a1a&height=200&section=header&text=Subhajit%20Ghosh&fontSize=42&fontColor=00F7FF&animation=fadeIn"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=I+am+NOT+a+traditional+developer.;I+have+never+formally+learned+programming.;I+do+not+write+complex+code+from+scratch.;I+build+systems+using+AI.;I+modify+repositories+with+AI+assistance.;I+deploy+public+and+private+projects.;I+add+new+features+through+AI+optimization.;Execution+over+titles.;Curiosity+over+credentials."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=950&lines=Not+a+Traditional+Developer;Never+Formally+Learned+Programming;I+Build+Using+AI;I+Modify+Repositories+With+AI;I+Deploy+Public+and+Private+Projects;I+Optimize+and+Add+New+Features;Execution+Over+Titles" />
 </p>
 
 ---
 
-## 🧠 IDENTITY
+## 🧠 Identity
 
 ```yaml
 Name: Subhajit Ghosh
 Location: West Bengal, India
-Type: Non-Traditional Tech Builder
-Core Model: AI-Assisted Execution
-Specialization: Deployment • Optimization • Customization
-Theme: Dark • Focused • Minimal
+Type: AI-Assisted Tech Builder
+Approach: Practical • Experimental • Adaptive
+Theme: Dark Core • Color Accent
 ```
 
 ---
 
-## ⚙ SYSTEM CORE
+## ⚙ System Loading
 
-```
-Initializing AI Engine...
-Scanning Repositories...
-Applying Intelligent Modifications...
-Deploying Optimized Systems...
-Status: ACTIVE
-```
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=1500&pause=500&color=00FFAA&center=true&vCenter=true&width=700&lines=Initializing+AI+Engine...;Scanning+Repositories...;Applying+Modifications...;Deploying+Optimized+Systems...;Status:+ONLINE" />
+</p>
 
-███████████████████████░ 95%
+<p align="center">
+
+██████████████████████░░ 90%
+
+</p>
 
 ---
 
-## 🚀 WHAT I DO
+## 🚀 What I Do
 
 - 🤖 Modify and optimize repositories using AI  
-- 🚀 Deploy public and private projects  
+- 🚀 Deploy both public and private projects  
 - 🛠 Customize open-source systems  
-- ⚙ Add features through AI-assisted workflows  
-- 🔍 Improve structure and efficiency  
-- 📚 Learn by experimenting in real environments  
+- ⚙ Add new features with AI-assisted workflows  
+- 🔍 Improve efficiency and structure  
+- 📚 Learn through real-world experimentation  
 
-I may not follow the traditional coding path —  
-but I focus on execution, adaptability, and intelligent system building.
+I focus on execution and intelligent system building rather than traditional coding labels.
 
 ---
 
-## 🌌 PHILOSOPHY
+## 🐍 Contribution Snake
 
-> You don’t need formal coding credentials to create meaningful technology.  
-> With AI, curiosity, and consistency — powerful systems can be built.
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🌈 Philosophy
+
+> You don’t need formal coding credentials to create powerful systems.  
+> With curiosity, AI tools, and consistency — progress is inevitable.
 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:111111,100:000000&height=150&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:0f0f0f,100:000000&height=120&section=footer&animation=fadeIn"/>
 </p>
 
 <p align="center">
