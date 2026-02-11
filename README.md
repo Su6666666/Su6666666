@@ -23,8 +23,8 @@ Focus: Execution • Optimization • Feature Integration
 
 ## ⚙ What I Actually Do
 
-I come from **zero coding background**.
-I do not know programming languages or traditional coding syntax.
+I come from **zero coding background**.        
+I do not know programming languages or traditional coding syntax.                      
 I do NOT write code manually.  
 I do NOT claim to be a traditional developer.  
 
