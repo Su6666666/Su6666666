@@ -1,65 +1,88 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f0f0f,100:1a1a1a&height=200&section=header&text=Subhajit%20Ghosh&fontSize=42&fontColor=00F7FF&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=220&section=header&text=Subhajit%20Ghosh&fontSize=44&fontColor=00F7FF&animation=fadeIn&desc=AI-Orchestrated%20System%20Builder&descSize=18&descAlignY=70"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=950&lines=Not+a+Traditional+Developer;Never+Formally+Learned+Programming;I+Build+Using+AI;I+Modify+Repositories+With+AI;I+Deploy+Public+and+Private+Projects;I+Optimize+and+Add+New+Features;Execution+Over+Titles" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=950&lines=No+Traditional+Coding+Background;I+Build+With+AI;I+Modify+Public+Repositories;I+Add+Features+Using+AI+Logic;Execution+Over+Labels" />
 </p>
 
 ---
 
-## 🧠 Identity
+## 🧠 Who I Am
 
 ```yaml
 Name: Subhajit Ghosh
 Location: West Bengal, India
-Type: AI-Assisted Tech Builder
-Approach: Practical • Experimental • Adaptive
-Theme: Dark Core • Color Accent
+Background: No Formal Coding Knowledge
+Role: AI-Orchestrated Repository Builder
+Approach: Analyze → Instruct AI → Modify → Test → Improve
+Focus: Execution • Optimization • Feature Integration
 ```
 
 ---
 
-## ⚙ System Loading
+## ⚙ What I Actually Do
+
+I do NOT write code manually.  
+I do NOT claim to be a traditional developer.  
+
+Instead, I:
+
+- 🤖 Use AI to understand repositories  
+- 🛠 Modify public open-source projects  
+- ➕ Add new features through structured AI prompts  
+- 🔄 Refactor and reorganize logic with AI assistance  
+- 🚀 Deploy working systems  
+- 🧠 Learn by building real systems  
+
+I operate at a **system level**, not at a syntax level.
+
+---
+
+## 🔍 My Working Model
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=800&pause=200&color=00FFAA&center=true&vCenter=true&width=700&lines=Initializing+AI+Engine...+10%;Scanning+Repositories...+30%;Applying+Modifications...+55%;Deploying+Optimized+Systems...+80%;Finalizing+Execution...+100%;System+Status:+ONLINE" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=800&pause=200&color=8A2BE2&center=true&vCenter=true&width=800&lines=Analyze+Existing+Repo...;Break+Down+System+Structure...;Design+Feature+Logic...;Guide+AI+Step+By+Step...;Test+%26+Refine...;Deploy+Final+Build" />
 </p>
 
 ---
 
-## 🚀 What I Do
+## 🧩 My Strength
 
-- 🤖 Modify and optimize repositories using AI  
-- 🚀 Deploy both public and private projects  
-- 🛠 Customize open-source systems  
-- ⚙ Add new features with AI-assisted workflows  
-- 🔍 Improve efficiency and structure  
-- 📚 Learn through real-world experimentation  
-
-I focus on execution and intelligent system building rather than traditional coding labels.
+- Structured thinking  
+- AI prompt engineering  
+- Repository modification strategy  
+- Feature integration planning  
+- Practical execution mindset  
+- Continuous experimentation  
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 GitHub Activity
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=8A2BE2" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&ring=00F7FF&fire=8A2BE2" height="165"/>
 </p>
 
 ---
 
-## 🌈 Philosophy
+## 🎯 Philosophy
 
-> You don’t need formal coding credentials to create powerful systems.  
-> With curiosity, AI tools, and consistency — progress is inevitable.
+> I may not know traditional coding syntax.  
+> But I understand systems.  
+> I understand structure.  
+> And I know how to use AI to build working solutions.
+
+Technology is evolving.  
+Builders are evolving with it.
 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:0f0f0f,100:000000&height=120&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:243B55,100:141E30&height=120&section=footer&animation=fadeIn"/>
 </p>
 
 <p align="center">
-⚫ Always Learning • Always Building • Always Improving
+⚡ AI-Assisted • System-Oriented • Execution Driven
 </p>
