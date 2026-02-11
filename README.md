@@ -1,60 +1,66 @@
 <h1 align="center">Hi 👋, I'm Subhajit Ghosh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+Powered+Deployment+Specialist;Automation+Explorer;Tech+Enthusiast+from+India;Learning+By+Doing;Building+Smart+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+Powered+Tech+Enthusiast;Deployment+Specialist;Automation+Explorer;Building+Ideas+Without+Traditional+Coding;Learning+By+Doing+Everyday" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Su6666666&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Su6666666&label=Profile%20Views&color=00F7FF&style=flat" />
   <img src="https://img.shields.io/github/followers/Su6666666?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/Su6666666?affiliations=OWNER&style=social" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-```yaml
-Name: Subhajit Ghosh
-Location: West Bengal, India
-Role: AI-Assisted Deployment Specialist
-Experience: Customizing & Deploying Public Repositories
-Learning Method: Exploration + AI Optimization
-Goal: Build Smart Systems Without Formal Coding
-```
-
-- 🤖 I use AI tools to modify and optimize existing scripts  
-- 🚀 I deploy customized bots and repositories across platforms  
-- 📚 I learn by experimenting with real-world projects  
-- 🛠 I enjoy fixing issues and improving automation systems  
+I am a **Tech Enthusiast** from West Bengal, India.  
+While I am not a traditional programmer, I specialize in bringing ideas to life using **AI and modern tools**.
 
 ---
 
-## 🧠 Philosophy
+## 🤖 What I Do
 
-> You don't need to be a professional programmer to build something powerful.  
-> With AI, curiosity, and consistency — anything is possible.
+- 🤖 **AI-Assisted Development** – Modifying and optimizing code with AI  
+- 🚀 **Deployment Expert** – Deploying Telegram bots on Koyeb & Render  
+- 🛠 **Project Customization** – Customizing open-source repositories  
+- 📚 **Learning by Doing** – Exploring real-world tools and systems  
 
 ---
 
-## 🛠 Tools & Technologies
+## 🧠 My Approach
+
+> I may not write code from scratch,  
+> but I know how to build, deploy, optimize, and improve systems using AI.
+
+---
+
+## 🛠 Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,linux,python,html,css,vscode,telegram&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=github,linux,python,html,css,vscode,telegram,cloudflare&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics (Live Data Loading)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Su6666666&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Su6666666&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Most Used Languages
+## 📈 Language Analysis
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Su6666666&layout=compact&theme=tokyonight&hide_border=true" />
@@ -65,19 +71,23 @@ Goal: Build Smart Systems Without Formal Coding
 ## 🔥 Contribution Activity
 
 <p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Su6666666&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## ⏳ System Loading...
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif" width="300"/>
 </p>
 
 ---
 
 <p align="center">
-⚡ Always Curious • Always Learning • Always Building
+⚡ Always Learning • Always Building • Always Improving
 </p>
