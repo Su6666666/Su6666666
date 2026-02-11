@@ -23,13 +23,7 @@ Theme: Dark Core • Color Accent
 ## ⚙ System Loading
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=1500&pause=500&color=00FFAA&center=true&vCenter=true&width=700&lines=Initializing+AI+Engine...;Scanning+Repositories...;Applying+Modifications...;Deploying+Optimized+Systems...;Status:+ONLINE" />
-</p>
-
-<p align="center">
-
-██████████████████████░░ 90%
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=800&pause=200&color=00FFAA&center=true&vCenter=true&width=700&lines=Initializing+AI+Engine...+10%;Scanning+Repositories...+30%;Applying+Modifications...+55%;Deploying+Optimized+Systems...+80%;Finalizing+Execution...+100%;System+Status:+ONLINE" />
 </p>
 
 ---
