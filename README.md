@@ -51,140 +51,43 @@ I operate at a **system level**, not at a syntax level.
 ---
 
 <div align="center">
+<!-- 🔥 My Active & Deployed Bots Showcase -->
 
-<h2 style="color:#ff3b3b;">🚀 My Active & Deployed Bots</h2>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=800&color=FF0000&center=true&vCenter=true&width=900&lines=1️⃣+Digital-Rename-Bot;Purpose:+Rename+any+Telegram+file+instantly;Status:+Fully+Working;Deployment:+Live+%26+Deployed;Core+Features:+Rename+any+file;Clean+file+naming;Fast+processing;Simple+user+interaction" />
+</p>
 
-<pre id="typing" style="text-align:left; font-family:monospace; font-size:16px;"></pre>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=800&color=00FF00&center=true&vCenter=true&width=900&lines=2️⃣+VJ-Forward-Bot;Purpose:+Forward+unlimited+files+between+channels;Status:+Fully+Working;Deployment:+Live+%26+Deployed;Core+Features:+Bulk+forwarding;Private+channel+support;Userbot+integration;High-speed+processing" />
+</p>
 
-<script>
-const bots = [
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=800&color=00BFFF&center=true&vCenter=true&width=900&lines=3️⃣+VJ-File-Store;Purpose:+Store+and+manage+Telegram+files;Status:+Fully+Working;Deployment:+Live+%26+Deployed;Core+Features:+Secure+storage;Easy+retrieval;Organized+management;Reliable+database" />
+</p>
 
-`1️⃣ Digital-Rename-Bot
---------------------------------
-Purpose: Rename any Telegram file instantly.
-Status: ✅ Fully Working
-Deployment: 🚀 Live & Deployed
-Core Features:
-- Rename any file (video, document, audio, etc.)
-- Clean file naming system
-- Fast processing
-- Simple user interaction`,
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=800&color=FFA500&center=true&vCenter=true&width=900&lines=4️⃣+VJ-Save-Restricted-Content;Purpose:+Extract+restricted+channel+content;Status:+Fully+Working;Deployment:+Live+%26+Deployed;Core+Features:+Save+protected+media;Works+with+private+channels;Fast+extraction;Secure+method" />
+</p>
 
-`2️⃣ VJ-Forward-Bot
---------------------------------
-Purpose: Forward unlimited files between channels.
-Status: ✅ Fully Working
-Deployment: 🚀 Live & Deployed
-Core Features:
-- Bulk forwarding support
-- Works with private & public channels
-- Userbot integration
-- High-speed processing`,
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=800&color=FF00FF&center=true&vCenter=true&width=900&lines=5️⃣+FileToLink;Purpose:+Generate+fast+download+links;Status:+Fully+Working;Deployment:+Live+%26+Deployed;Core+Features:+Instant+direct+link;Fast+serving;Large+file+support;Clean+URL+generation" />
+</p>
 
-`3️⃣ VJ-File-Store
---------------------------------
-Purpose: Store and manage Telegram files.
-Status: ✅ Fully Working
-Deployment: 🚀 Live & Deployed
-Core Features:
-- Secure file storage
-- Easy file retrieval
-- Organized management system
-- Reliable database integration`,
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=800&color=FFD700&center=true&vCenter=true&width=900&lines=6️⃣+Auto-Streaming-Updates+(Premium);Purpose:+Auto+post+new+movie+and+series+updates;Status:+Fully+Working;Deployment:+Live+%26+Deployed;Core+Features:+Auto+release+detection;Anime+support;Smart+metadata;Auto+channel+posting" />
+</p>
 
-`4️⃣ VJ-Save-Restricted-Content
---------------------------------
-Purpose: Extract content from restricted channels.
-Status: ✅ Fully Working
-Deployment: 🚀 Live & Deployed
-Core Features:
-- Save restricted messages
-- Extract protected media
-- Works with private channels
-- Fast & secure method`,
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=800&color=8A2BE2&center=true&vCenter=true&width=900&lines=7️⃣+VJ-Filter-Bot+(Movie+Search);Purpose:+Search+and+filter+movies+instantly;Status:+Fully+Working;Deployment:+Live+%26+Deployed;Core+Features:+Instant+search;Smart+filtering;Clean+UI;Large+database+support" />
+</p>
 
-`5️⃣ FileToLink
---------------------------------
-Purpose: Generate fast download link from Telegram files.
-Status: ✅ Fully Working
-Deployment: 🚀 Live & Deployed
-Core Features:
-- Instant direct download link
-- Fast file serving
-- Supports large files
-- Clean link generation`,
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=800&color=00CED1&center=true&vCenter=true&width=900&lines=8️⃣+ChannelAutoPost+(Premium);Purpose:+Auto+sync+posts+between+channels;Status:+Fully+Working;Deployment:+Live+%26+Deployed;Core+Features:+Real-time+sync;Keeps+original+caption;Fully+automated;Premium+system" />
+</p>
 
-`6️⃣ Auto-Streaming-Updates (Premium)
---------------------------------
-Purpose: Auto post new movie, web series & anime updates.
-Status: ✅ Fully Working
-Deployment: 🚀 Live & Deployed
-Core Features:
-- Automatic release detection
-- Movie / Web Series / Anime support
-- Smart metadata formatting
-- Auto channel posting system`,
-
-`7️⃣ VJ-Filter-Bot (Movie Search Bot)
---------------------------------
-Purpose: Search and filter movies instantly.
-Status: ✅ Fully Working
-Deployment: 🚀 Live & Deployed
-Core Features:
-- Instant movie search
-- Smart filtering system
-- Clean response UI
-- Large database support`,
-
-`8️⃣ ChannelAutoPost (Premium)
---------------------------------
-Purpose: Auto post from one channel to another.
-Status: ✅ Fully Working
-Deployment: 🚀 Live & Deployed
-Core Features:
-- Real-time post synchronization
-- Keeps original caption
-- Fully automated system
-- Premium channel automation`,
-
-`9️⃣ AI-Auto-Caption-Bot (Premium)
---------------------------------
-Purpose: Smart automatic caption generator.
-Status: ✅ Fully Working
-Deployment: 🚀 Live & Deployed
-Core Features:
-- Auto detect title from filename
-- Remove unwanted usernames
-- Detect release year & language
-- Season & episode formatting
-- Professional structured captions`
-
-];
-
-let index = 0;
-let charIndex = 0;
-const typingElement = document.getElementById("typing");
-
-function typeBot() {
-    if (charIndex < bots[index].length) {
-        typingElement.textContent += bots[index].charAt(charIndex);
-        charIndex++;
-        setTimeout(typeBot, 15);
-    } else {
-        setTimeout(() => {
-            typingElement.textContent = "";
-            charIndex = 0;
-            index = (index + 1) % bots.length;
-            typeBot();
-        }, 2500);
-    }
-}
-
-typeBot();
-</script>
-
-</div>
-
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=800&color=FF1493&center=true&vCenter=true&width=900&lines=9️⃣+AI-Auto-Caption-Bot+(Premium);Purpose:+Smart+automatic+caption+generator;Status:+Fully+Working;Deployment:+Live+%26+Deployed;Core+Features:+Auto+detect+title;Remove+usernames;Detect+year+and+language;Season+%26+episode+formatting" />
+</p>
 ---
 ## 🐍 Contribution Snake
 
