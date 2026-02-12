@@ -89,6 +89,7 @@ I operate at a **system level**, not at a syntax level.
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=800&color=FF1493&center=true&vCenter=true&width=900&lines=9️⃣+AI-Auto-Caption-Bot+(Premium);Purpose:+Smart+automatic+caption+generator;Status:+Fully+Working;Deployment:+Live+%26+Deployed;Core+Features:+Auto+detect+title;Remove+usernames;Detect+year+and+language;Season+%26+episode+formatting" />
 </p>
 ---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
