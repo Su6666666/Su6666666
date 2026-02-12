@@ -50,6 +50,41 @@ I operate at a **system level**, not at a syntax level.
 
 ---
 
+## 🚀 My Active & Deployed Telegram Bots
+
+Below are my fully deployed and operational Telegram automation systems:
+
+### 1️⃣ Digital-Rename-Bot  
+**Purpose:** Instantly rename any Telegram file with custom naming logic.
+
+### 2️⃣ Forward-Bot  
+**Purpose:** Forward unlimited files seamlessly from one Telegram channel to another.
+
+### 3️⃣ File-Store  
+**Purpose:** Store, manage, and organize Telegram files efficiently.
+
+### 4️⃣ Save-Restricted-Content  
+**Purpose:** Extract messages and media files from restricted Telegram channels.
+
+### 5️⃣ FileToLink  
+**Purpose:** Generate fast and direct download links from Telegram files.
+
+### 6️⃣ Auto-Streaming-Updates  
+**Purpose:** Automatically post new movie, web series, and anime release updates.
+
+### 7️⃣ Auto-Filter-Bot (Movie Search Bot)  
+**Purpose:** Instantly search and filter movies with structured results.
+
+### 8️⃣ ChannelAutoPost  
+**Purpose:** Automatically repost content from one channel to another.
+
+### 9️⃣ AI-Auto-Caption-Bot  
+**Purpose:** Smart AI-powered automatic caption generator for Telegram posts.
+
+---
+
+🧠 All bots are built, modified, optimized, and deployed using AI-assisted system design methodology.
+
 ## 🐍 Contribution Snake
 
 <p align="center">
