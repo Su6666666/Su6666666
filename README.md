@@ -50,6 +50,142 @@ I operate at a **system level**, not at a syntax level.
 
 ---
 
+<div align="center">
+
+<h2 style="color:#ff3b3b;">🚀 My Active & Deployed Bots</h2>
+
+<pre id="typing" style="text-align:left; font-family:monospace; font-size:16px;"></pre>
+
+<script>
+const bots = [
+
+`1️⃣ Digital-Rename-Bot
+--------------------------------
+Purpose: Rename any Telegram file instantly.
+Status: ✅ Fully Working
+Deployment: 🚀 Live & Deployed
+Core Features:
+- Rename any file (video, document, audio, etc.)
+- Clean file naming system
+- Fast processing
+- Simple user interaction`,
+
+`2️⃣ VJ-Forward-Bot
+--------------------------------
+Purpose: Forward unlimited files between channels.
+Status: ✅ Fully Working
+Deployment: 🚀 Live & Deployed
+Core Features:
+- Bulk forwarding support
+- Works with private & public channels
+- Userbot integration
+- High-speed processing`,
+
+`3️⃣ VJ-File-Store
+--------------------------------
+Purpose: Store and manage Telegram files.
+Status: ✅ Fully Working
+Deployment: 🚀 Live & Deployed
+Core Features:
+- Secure file storage
+- Easy file retrieval
+- Organized management system
+- Reliable database integration`,
+
+`4️⃣ VJ-Save-Restricted-Content
+--------------------------------
+Purpose: Extract content from restricted channels.
+Status: ✅ Fully Working
+Deployment: 🚀 Live & Deployed
+Core Features:
+- Save restricted messages
+- Extract protected media
+- Works with private channels
+- Fast & secure method`,
+
+`5️⃣ FileToLink
+--------------------------------
+Purpose: Generate fast download link from Telegram files.
+Status: ✅ Fully Working
+Deployment: 🚀 Live & Deployed
+Core Features:
+- Instant direct download link
+- Fast file serving
+- Supports large files
+- Clean link generation`,
+
+`6️⃣ Auto-Streaming-Updates (Premium)
+--------------------------------
+Purpose: Auto post new movie, web series & anime updates.
+Status: ✅ Fully Working
+Deployment: 🚀 Live & Deployed
+Core Features:
+- Automatic release detection
+- Movie / Web Series / Anime support
+- Smart metadata formatting
+- Auto channel posting system`,
+
+`7️⃣ VJ-Filter-Bot (Movie Search Bot)
+--------------------------------
+Purpose: Search and filter movies instantly.
+Status: ✅ Fully Working
+Deployment: 🚀 Live & Deployed
+Core Features:
+- Instant movie search
+- Smart filtering system
+- Clean response UI
+- Large database support`,
+
+`8️⃣ ChannelAutoPost (Premium)
+--------------------------------
+Purpose: Auto post from one channel to another.
+Status: ✅ Fully Working
+Deployment: 🚀 Live & Deployed
+Core Features:
+- Real-time post synchronization
+- Keeps original caption
+- Fully automated system
+- Premium channel automation`,
+
+`9️⃣ AI-Auto-Caption-Bot (Premium)
+--------------------------------
+Purpose: Smart automatic caption generator.
+Status: ✅ Fully Working
+Deployment: 🚀 Live & Deployed
+Core Features:
+- Auto detect title from filename
+- Remove unwanted usernames
+- Detect release year & language
+- Season & episode formatting
+- Professional structured captions`
+
+];
+
+let index = 0;
+let charIndex = 0;
+const typingElement = document.getElementById("typing");
+
+function typeBot() {
+    if (charIndex < bots[index].length) {
+        typingElement.textContent += bots[index].charAt(charIndex);
+        charIndex++;
+        setTimeout(typeBot, 15);
+    } else {
+        setTimeout(() => {
+            typingElement.textContent = "";
+            charIndex = 0;
+            index = (index + 1) % bots.length;
+            typeBot();
+        }, 2500);
+    }
+}
+
+typeBot();
+</script>
+
+</div>
+
+---
 ## 🐍 Contribution Snake
 
 <p align="center">
